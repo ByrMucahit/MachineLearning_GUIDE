@@ -1,0 +1,4 @@
+ We mentioned that KNN's very simple , effective and no input paramethres . If I need to explain this algoritm , you can see that three different figure, there're square(blue) , triangle (red) and 
+circle (green) also Cirlce's one of test data set . We got K value in the our handle . The Circle's place can change on K-value. Consider to We would input 3 for k- value .You have seen three figure
+(Image got two triangle and a square) Circle would be placed with triangle ,but you would increase to k value , this value can be changed.
+ 
